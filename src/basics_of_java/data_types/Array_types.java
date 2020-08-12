@@ -14,6 +14,8 @@ public class Array_types {
 		int arr2[] = new int[5];
 		for (var i: arr2) System.out.print(i + " : ");
 		
+		
+		
 	}
 
 }
