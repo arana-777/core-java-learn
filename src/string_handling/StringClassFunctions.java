@@ -22,8 +22,18 @@ public class StringClassFunctions {
 		// toUpperCase() method
 		System.out.println("abcdef in uppercase is " + "abcdef".toUpperCase());
 		
+		// trim() method
+		String astr = "     hello     ";
+		System.out.println(astr.trim());
 		
+		// contains() method
+		String a = "Some random string it is";
+		boolean ch = a.contains("random string");
+		System.out.println(ch);
 		
+		// endsWith() method
+		String web = "www.johndoe.com";
+		System.out.println(web.endsWith(".com"));
 		
 	}
 }
