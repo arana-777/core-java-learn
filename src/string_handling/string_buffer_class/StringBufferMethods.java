@@ -23,6 +23,23 @@ public class StringBufferMethods {
 		str3.replace(6, 11, "java");
 		System.out.println(str3);
 		
+		// capacity() method
+		StringBuffer str4 = new StringBuffer();
+		System.out.println(str4.capacity()); // will output default capacity of 16 characters
+		
+		// ensureCapacity() method
+		// if argument of ensureCapacity() method is greater than existing capacity,
+		// then there will be change in current capacity using below formula,
+		// newCapacity = (oldCapacity*2) + 2
+		StringBuffer str5 = new StringBuffer();
+		System.out.println(str5.capacity()); // will output 16 : default capacity
+		str5.ensureCapacity(30); // greater than existing capacity
+		System.out.println(str5.capacity()); // output 34 based on newCapacity formula
+		
+		
+		
+		
+		
 		
 	}
 }
