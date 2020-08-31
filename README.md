@@ -27,3 +27,6 @@
 1. Main thread about
 2. Thread lifecycle and thread states : new > runnable > running or blocked > terminated
 3. Daemon thread - low level thread providing support for other threads (is both system and user defined)
+
+## Advanced concepts
+1. Enumeration
