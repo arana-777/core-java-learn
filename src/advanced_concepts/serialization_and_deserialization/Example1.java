@@ -1,5 +1,5 @@
 package advanced_concepts.serialization_and_deserialization;
-// /home/arana/eclipse-workspace/core-java-learn/resources/sample-file.txt
+
 import java.io.*;
 
 class Person implements Serializable {
