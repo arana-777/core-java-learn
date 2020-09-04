@@ -30,3 +30,6 @@
 
 ## Advanced concepts
 1. Enumeration
+2. Input Output Stream class
+3. Serialization and Deserialization of objects.
+4. Generics
