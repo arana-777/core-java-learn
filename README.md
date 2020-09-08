@@ -35,3 +35,7 @@
 4. Generics
 
 ## Collection Framework
+1. Collection interfaces : sets, lists and maps.
+2. Collection classes: ArrayList, HashSet etc
+3. Concurrent implementation classes that are designed for highly concurrent use.
+4. Algorithms to be used o collections - sorting a list etc.
