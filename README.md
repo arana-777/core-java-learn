@@ -39,3 +39,11 @@
 2. Collection classes: ArrayList, HashSet etc
 3. Concurrent implementation classes that are designed for highly concurrent use.
 4. Algorithms to be used o collections - sorting a list etc.
+
+** Important interface of Collection API**
+- Collection
+- Deque
+- List
+- Queue
+
+## Java GUI
