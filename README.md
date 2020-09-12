@@ -45,5 +45,6 @@
 - Deque
 - List
 - Queue
+- HashSet
 
 ## Java GUI
